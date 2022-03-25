@@ -14,3 +14,4 @@ This document will list the steps a candidate for the Programmer I position will
   - Names of the stored procedure created
   - Packaged .exe code
   - Result file
+- The results should be placed in your GitHub Repository and shared with matt@rapidpos.com and dorin@rapidpos.com
