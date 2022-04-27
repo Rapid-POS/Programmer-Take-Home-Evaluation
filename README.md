@@ -14,4 +14,4 @@ This document will list the steps a candidate for the Programmer I position will
   - Names of the stored procedure created
   - Packaged .exe code
   - Result file
-- The results should be placed in your GitHub Repository and shared with matt@rapidpos.com and dorin@rapidpos.com
+- Place the results in a Reposority on your GitHub account along with a ReadMe containing your full name and which method or job site you used to reach this repository.  Send an invitation to this repository Rapid POS at: recruiting.programmer@rapidpos.com.
